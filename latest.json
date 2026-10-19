@@ -1,0 +1,5 @@
+{
+  "version": "1.1",
+  "notes": "What's new in Eliya Notes 1.1:\n• Pasted text now matches the style you're writing in (Edit → Paste with Original Formatting keeps the old look)\n• Make AI notes from Keynote files (and old .ppt) too\n• New plain color themes: Pink, Purple, Blue, Green, Teal, Orange, Red, Yellow, Lavender, Gray, Midnight Blue, Black\n• Import your OneNote notes (File → Import from OneNote…)\n• Automatic updates",
+  "zip": "updates/Eliya-Notes-1.1.zip"
+}
