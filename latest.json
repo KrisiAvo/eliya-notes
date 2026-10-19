@@ -1,5 +1,5 @@
 {
-  "version": "1.3",
-  "notes": "What's new in Eliya Notes 1.3:\n• Move pictures: click a picture and drag it anywhere in your note\n• Resize pictures: right-click a picture → Small, Medium, Large, Full width or Original size\n• Pasting keeps pictures and matches your note's style\n• Edit → Paste with Original Formatting keeps the exact look\n• OneNote import keeps pictures and formatting",
-  "zip": "updates/Eliya-Notes-1.3.zip"
+  "version": "1.4",
+  "notes": "What's new in Eliya Notes 1.4:\n• OneNote PDFs now import with their pictures\n• Choose \"Editable text + pictures\" or \"Exact look\" when importing PDFs\n• Move pictures by dragging them, resize with right-click\n• Pasting keeps pictures",
+  "zip": "updates/Eliya-Notes-1.4.zip"
 }
