@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
-  "notes": "What's new in Eliya Notes 1.2:\n• Pasting keeps pictures now, and matches your note's style\n• Edit → Paste with Original Formatting keeps the exact look (fonts, colors, pictures)\n• OneNote import keeps pictures and formatting",
-  "zip": "updates/Eliya-Notes-1.2.zip"
+  "version": "1.3",
+  "notes": "What's new in Eliya Notes 1.3:\n• Move pictures: click a picture and drag it anywhere in your note\n• Resize pictures: right-click a picture → Small, Medium, Large, Full width or Original size\n• Pasting keeps pictures and matches your note's style\n• Edit → Paste with Original Formatting keeps the exact look\n• OneNote import keeps pictures and formatting",
+  "zip": "updates/Eliya-Notes-1.3.zip"
 }
