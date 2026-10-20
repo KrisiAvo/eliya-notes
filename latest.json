@@ -1,5 +1,5 @@
 {
-  "version": "1.6",
-  "notes": "What's new in Eliya Notes 1.6:\n• Drag tables anywhere: point at a table, grab the ⠿ handle on its left and drop it wherever you want in the note\n• Tables: add rows/columns, merge or split cells, and change cell, row and border colors (right-click a table)\n• Draw with the trackpad or mouse (Draw button)\n• Boxes (Definition, Tip…) fixed: no more squished boxes, and they keep their color",
-  "zip": "updates/Eliya-Notes-1.6.zip"
+  "version": "1.7",
+  "notes": "What's new in Eliya Notes 1.7:\n• Place tables anywhere: grab the ⠿ handle next to a table and drop it wherever you want. Drag its top strip to move it again, drag its right edge to resize\n• Insert → Text Box: a box you can type in and put anywhere on the page. Right-click a picture → Place Picture Anywhere\n• OneNote PDFs now import with the same layout: text, highlights, pictures and the side column all where they were\n• Making the window smaller now shrinks the page instead of rearranging it, and the side panels tuck away\n• New sentences start with a capital letter automatically (turn off in Paragraph menu)\n• The built-in AI now keeps working after updates",
+  "zip": "updates/Eliya-Notes-1.7.zip"
 }
