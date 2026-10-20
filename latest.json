@@ -1,5 +1,5 @@
 {
-  "version": "1.4",
-  "notes": "What's new in Eliya Notes 1.4:\n• OneNote PDFs now import with their pictures\n• Choose \"Editable text + pictures\" or \"Exact look\" when importing PDFs\n• Move pictures by dragging them, resize with right-click\n• Pasting keeps pictures",
-  "zip": "updates/Eliya-Notes-1.4.zip"
+  "version": "1.5",
+  "notes": "What's new in Eliya Notes 1.5:\n• Tables: right-click a table to add rows/columns, merge or split cells, and change cell, row and border colors\n• Move a table, picture or paragraph up/down (right-click, or Control-Command-Up/Down)\n• Draw with the trackpad or mouse: the new Draw button (pen, highlighter, eraser, colors)\n• Boxes (Definition, Tip, Important…) fixed: no more squished boxes, and they keep their color when you reopen a note",
+  "zip": "updates/Eliya-Notes-1.5.zip"
 }
