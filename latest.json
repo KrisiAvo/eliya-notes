@@ -1,5 +1,5 @@
 {
-  "version": "1.7",
-  "notes": "What's new in Eliya Notes 1.7:\n• Place tables anywhere: grab the ⠿ handle next to a table and drop it wherever you want. Drag its top strip to move it again, drag its right edge to resize\n• Insert → Text Box: a box you can type in and put anywhere on the page. Right-click a picture → Place Picture Anywhere\n• OneNote PDFs now import with the same layout: text, highlights, pictures and the side column all where they were\n• Making the window smaller now shrinks the page instead of rearranging it, and the side panels tuck away\n• New sentences start with a capital letter automatically (turn off in Paragraph menu)\n• The built-in AI now keeps working after updates",
-  "zip": "updates/Eliya-Notes-1.7.zip"
+  "version": "1.8",
+  "notes": "What's new in Eliya Notes 1.8:\n• Works in split screen: on half a screen the notes list tucks into a Notes button\n• Draw right on the note, over text and pictures (Insert → Draw on the Page)\n• Text boxes go wherever you click, even over pictures\n• Edit pictures after adding them: drag a corner to resize, double-click to crop, rotate, flip and change colours\n• Lists like Google Docs: 1. 2. 3. with a. b. c. sub-levels, а) б) в), bigger bullets, Tab / Shift-Tab to indent\n• Highlighting a list item no longer colours the bullet or the empty space\n• Arrow keys move between table cells\n• Times New Roman 18 is the default font everywhere (change it in Settings → Writing)\n• Notes in a class go oldest first, and you can move them up or down",
+  "zip": "updates/Eliya-Notes-1.8.zip"
 }
