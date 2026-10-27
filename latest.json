@@ -1,5 +1,5 @@
 {
-  "version": "1.8.1",
-  "notes": "What's new in Eliya Notes 1.8.1:\n• Fixed the page flickering in split screen\n• Drag any picture or drawing to move it anywhere on the page, even over text. Drag its right edge to make it bigger or smaller, double-click it to crop or edit\n• Drawing on the page has a new ✋ move tool: grab any line you drew and move it\n• The highlight on old notes now stops at the text",
-  "zip": "updates/Eliya-Notes-1.8.1.zip"
+  "version": "1.8.2",
+  "notes": "What's new in Eliya Notes 1.8.2:\n• Fixed the text flickering and squeezing into a thin column when the window is small\n• Highlighting (and bold, colours…) no longer jumps you to the bottom of the page\n• Drag any picture or drawing to move it anywhere, and use the ✋ tool to move lines you drew",
+  "zip": "updates/Eliya-Notes-1.8.2.zip"
 }
